@@ -1,6 +1,6 @@
 # 🍓 Gesture Controlled Bed for Assisted Comfort
 
-<img src="https://github.com/SANUSAN7619/SANUSAN7619/blob/main/banner.png" alt="Strawberry Shortcake Banner" width="100%" height="300px"/>
+<img src="https://github.com/SANUSAN7619/GestureBedControl/blob/master/fruity.png" width="100%" height="300px"/>
 
 This project aims to improve comfort and independence for individuals with physical mobility challenges by allowing them to control bed adjustments using hand gestures.
 
